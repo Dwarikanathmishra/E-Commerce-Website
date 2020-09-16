@@ -16,14 +16,14 @@ function Home() {
             <Product
               id="1"
               title="LG 164 cm (65 inches) 4K Ultra HD Smart IPS LED TV 65UM7290PTD (Ceramic Black) (2020 Model)"
-              price={1500}
+              price={1499.99}
               image="https://images-na.ssl-images-amazon.com/images/I/71SCFpCWGrL._SL1500_.jpg"
               rating={4}
             />
             <Product
               id="2"
               title="Apple MacBook Pro (16-inch, 16GB RAM, 512GB Storage, 2.6GHz 9th Gen Intel Core i7) - Space Grey"
-              price={2500}
+              price={2499.90}
               image="https://m.media-amazon.com/images/I/71L2iBSyyOL._AC_UY327_FMwebp_QL65_.jpg"
               rating={5}
             />
@@ -40,14 +40,14 @@ function Home() {
             <Product
               id="4"
               title="Ching's Secret, Schezwan Chutney, 250 Grams(gm)"
-              price={1.5}
+              price={1.99}
               image="https://images-na.ssl-images-amazon.com/images/I/81TiY3NVfQL._SL1500_.jpg"
               rating={5}
             />
             <Product
               id="5"
               title="New Apple iPad Pro (12.9-inch, Wi-Fi, 128GB) - Space Grey (4th Generation)"
-              price={1000}
+              price={999.99}
               image="https://images-na.ssl-images-amazon.com/images/I/811aBwuSuIL._SL1500_.jpg"
               rating={4}
             />
