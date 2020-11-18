@@ -1,7 +1,6 @@
 ##
 This is an E-commerce website built using MERN stack and Firebase.
 
-##
 The UI is replicated to that of Amazon.
 
 ##
